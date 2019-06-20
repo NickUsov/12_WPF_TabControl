@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\bin\Debug\WPF_TabControl.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\bin\Debug\WPF_TabControl.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\bin\Debug\WPF_TabControl.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\04\12\12_WPF_TabControl\WPF_TabControl\WPF_TabControl\obj\Debug\WPF_TabControl.pdb
